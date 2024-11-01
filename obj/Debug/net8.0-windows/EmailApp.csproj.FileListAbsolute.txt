@@ -1,0 +1,66 @@
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.AssemblyReference.cache
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.Form1.resources
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.GenerateResource.cache
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.AssemblyInfoInputs.cache
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.AssemblyInfo.cs
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.CoreCompileInputs.cache
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.exe
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.deps.json
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.runtimeconfig.json
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.dll
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.pdb
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\MailKit.dll
+D:\EmailApp\EmailApp\bin\Debug\net8.0-windows\MimeKit.dll
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.Properties.Resources.resources
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.Up2Date
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.dll
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\refint\EmailApp.dll
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.pdb
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.genruntimeconfig.cache
+D:\EmailApp\EmailApp\obj\Debug\net8.0-windows\ref\EmailApp.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.exe
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.deps.json
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.runtimeconfig.json
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.pdb
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\MailKit.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\bin\Debug\net8.0-windows\MimeKit.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.AssemblyReference.cache
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.Form1.resources
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.Properties.Resources.resources
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.GenerateResource.cache
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.AssemblyInfoInputs.cache
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.AssemblyInfo.cs
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.CoreCompileInputs.cache
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.Up2Date
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\refint\EmailApp.dll
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.pdb
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.genruntimeconfig.cache
+D:\linh tinh\Đang Học\Lập trình Mạng\EmailApp\EmailApp\obj\Debug\net8.0-windows\ref\EmailApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.exe
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\EmailApp.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\MailKit.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\bin\Debug\net8.0-windows\MimeKit.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.Form1.resources
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\refint\EmailApp.dll
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\EmailApp.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\Dự án lập trình mạng (1)\EmailApp\EmailApp\obj\Debug\net8.0-windows\ref\EmailApp.dll
